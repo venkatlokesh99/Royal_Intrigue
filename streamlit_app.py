@@ -342,7 +342,7 @@ def main():
             policy options that affect your stats differently. Choose wisely!
             
             ### 👥 Your Advisors
-            Three advisors will Royal Intrigue you, but remember - they each have their own secret goals that may not align 
+            Three advisors will counsel you, but remember - they each have their own secret goals that may not align 
             with yours. Listen carefully, ask questions, and watch for patterns in their advice.
             
             ---
